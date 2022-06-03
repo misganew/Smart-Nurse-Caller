@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--    <item-->
+<!--        android:id="@+id/online_live_info"-->
+<!--        android:icon="@drawable/ic_green_circle"-->
+<!--        android:title="online"-->
+
+<!--        app:showAsAction="always"></item>-->
+<!--    <item android:id="@+id/offline_live_info"-->
+<!--        android:icon="@drawable/ic_gray_circle_svg"-->
+<!--        android:title="offline"-->
+<!--        app:showAsAction="always"></item>-->
+<!--    <item android:id="@+id/i1"-->
+<!--        android:title=" "-->
+<!--        app:showAsAction="always"></item>-->
+
+<!--&lt;!&ndash;    <item android:id="@+id/i2"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:title=" "&ndash;&gt;-->
+<!--&lt;!&ndash;        android:left="200dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        app:showAsAction="always"></item>&ndash;&gt;-->
+<!--    <item-->
+<!--        android:id="@+id/d"-->
+<!--        app:showAsAction="always"-->
+<!--        android:title=" " />-->
+    <item android:id="@+id/exit_menu"
+        android:icon="@drawable/power_button"
+        android:title="exit"
+        app:showAsAction="always"></item>
+</menu>
+
+
